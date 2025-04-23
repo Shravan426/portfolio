@@ -9,17 +9,17 @@ interface SocialLink {
 
 const socialLinks: SocialLink[] = [
   {
-    href: 'https://github.com/your-username',
+    href: 'https://github.com/Shravan426',
     label: 'GitHub',
     icon: <Github size={20} />,
   },
   {
-    href: 'https://linkedin.com/in/your-username',
+    href: 'https://linkedin.com/in/shravan-suresh-3b0811233/',
     label: 'LinkedIn',
     icon: <Linkedin size={20} />,
   },
   {
-    href: 'mailto:your.email@example.com',
+    href: 'mailto:shravansuresh558@gmail.com',
     label: 'Email',
     icon: <Mail size={20} />,
   },
