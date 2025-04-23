@@ -43,8 +43,8 @@ export default function Footer() {
             </a>
           ))}
         </div>
-        <p className="mb-2">Contact: your.email@example.com</p>
-        <p>© {new Date().getFullYear()} Your Name. All rights reserved.</p>
+        <p className="mb-2">Contact: shravansuresh558@gmail.com</p>
+        <p>© {new Date().getFullYear()} Shravan Suresh. All rights reserved.</p>
       </div>
     </footer>
   );
