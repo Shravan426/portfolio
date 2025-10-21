@@ -38,7 +38,7 @@ export default function About() {
                         transition={{ duration: 0.8, delay: 0.2 }}
                     >
                         <a
-                            href="/Shravan-resume.pdf"
+                            href="/Shravan Suresh (1).pdf"
                             download
                             className="inline-block px-6 py-3 bg-blue-500 text-white rounded-full hover:bg-blue-600 dark:bg-blue-600 dark:hover:bg-blue-700 transition-colors"
                         >
