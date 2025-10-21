@@ -6,7 +6,7 @@ interface ProjectFiltersProps {
 }
 
 export default function ProjectFilters({ activeFilter, setFilter }: ProjectFiltersProps) {
-    const filters = ['all', 'web', 'mobile']
+    const filters = ['all', 'web', 'mobile','AI']
 
     return (
         <div className="flex justify-center mb-8">

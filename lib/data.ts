@@ -16,8 +16,14 @@ export const skills = [
     {
       company: 'Gewan InfoTech Solutions',
       role: 'FrontEnd Developer Intern',
-      duration: '18/06/2024 - Present',
+      duration: '18/06/2024 - 18/06/2025',
       tasks: ['Contributing to ongoing web development projects.'],
+    },
+    {
+      company: 'BG Tech vision Academy and Hardware',
+      role: 'Advanced AI Internship',
+      duration: '01/07/2025 - 31/07/2025',
+      tasks: ['Gained practical experience and hands-on skills in AI technologies.'],
     },
   ];
   
@@ -50,4 +56,26 @@ export const skills = [
       technologies: ['Python','Django'],
       category: 'web',
     },
+    {
+      title: 'Conversational AI Chatbot',
+      description:
+        'Designed an AI-powered Chatbot using NLP and machine learning for smart, human-like conversations. This project is done by using Python Programming.',
+      technologies: ['Python','AI'],
+      category: 'AI',
+    },
+    {
+      title: 'Hand Gesture Recognition',
+      description:
+        'Built a system using computer vision and deep learning to detect and interpret hand gestures for human-computer interaction. This project is done by using Python Programming.',
+      technologies: ['Python','AI'],
+      category: 'AI',
+    },
+    {
+      title: 'Object Detection System using GAN',
+      description:
+        'Developed a model leveraging Generative Adversarial Networks (GANs) to enhance object detection accuracy in complex environments. This project is done by using Python Programming.',
+      technologies: ['Python','AI'],
+      category: 'AI',
+    },
+
   ];
