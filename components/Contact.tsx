@@ -21,8 +21,8 @@ export default function Contact() {
                   transition={{duration:0.8}}
                   >
                     <p className="text-lg mb-4">E-mail:shravansuresh558@gmail.com</p>
-                    <p className="text-lg mb-4">Phone:+91 8086602766</p>
-                    <p className="text-lg mb-4">Address: Santhalayam, Thekkumbhagam, Tripunthura,Ernakulam,PinCode: 682301</p>
+                    <p className="text-lg mb-4">Phone:+971 56 346 0301 </p>
+                    <p className="text-lg mb-4">Address: Muroor Road, Al Danah, Zone 1, Abu Dhabi, UAE (on 60-day visit visa)</p>
                     <div className="mt-6">
                         <a
                          href="mailto:shravansuresh558@gmail.com"
